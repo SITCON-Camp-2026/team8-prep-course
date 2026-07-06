@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/profile.schema.json",
-  "github": "octocat",
+  "github": "chia1122",
   "displayName": "百變怪",
   "tagline": "想把點子做成可以互動的網頁",
   "interests": ["AI", "前端", "開放資料"],
