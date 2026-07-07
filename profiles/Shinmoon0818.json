@@ -1,0 +1,14 @@
+{
+  "$schema": "../schemas/profile.schema.json",
+  "github": "Shinmoon0818",
+  "displayName": "螢光",
+  "tagline": "躺（",
+  "interests": [
+    "其他"
+  ],
+  "faction": {
+    "os": "windows",
+    "browser": "chrome",
+    "editor": "vscode"
+  }
+}
