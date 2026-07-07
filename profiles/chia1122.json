@@ -1,12 +1,12 @@
 {
   "$schema": "../schemas/profile.schema.json",
   "github": "chia1122",
-  "displayName": "<button onclick=\"alert('XSS demo')\">Click me</button>",
-  "tagline": "想把點子做成可以互動的網頁",
+  "displayName": "草蝦",
+  "tagline": "草蝦不會游泳",
   "interests": [
     "AI",
-    "前端",
-    "開放資料"
+    "Speech Codec",
+    "ML"
   ],
   "faction": {
     "os": "linux",
