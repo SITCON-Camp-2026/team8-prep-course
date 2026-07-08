@@ -1,0 +1,26 @@
+{
+  "$schema": "../schemas/profile.schema.json",
+  "github": "rozena-aa",
+  "displayName": "rozena.aa",
+  "tagline": "自我介紹（請編輯）",
+  "interests": [
+    "前端"
+  ],
+  "faction": {
+    "os": "linux",
+    "browser": "firefox",
+    "editor": "vscode"
+  }
+}
+{
+  "$schema": "../schemas/profile.schema.json",
+  "github": "rozena.aa",
+  "displayName": "rozena",
+  "tagline": "想把點子做成可以互動的網頁",
+  "interests": ["前端"],
+  "faction": {
+    "os": "linux",
+    "browser": "firefox",
+    "editor": "vscode"
+  }
+}
