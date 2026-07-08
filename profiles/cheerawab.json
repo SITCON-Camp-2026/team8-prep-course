@@ -9,7 +9,7 @@
     "game"
   ],
   "faction": {
-    "os": "liunx",
+    "os": "linux",
     "browser": "other",
     "editor": "vscode"
   }
