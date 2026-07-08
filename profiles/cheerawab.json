@@ -1,0 +1,16 @@
+{
+  "$schema": "../schemas/profile.schema.json",
+  "github": "cheerawab",
+  "displayName": "Cheer_awa",
+  "tagline": "Hi im Cheer_awa",
+  "interests": [
+    "JavaScript",
+    "Bot",
+    "game"
+  ],
+  "faction": {
+    "os": "linux",
+    "browser": "other",
+    "editor": "vscode"
+  }
+}

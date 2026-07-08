@@ -1,0 +1,14 @@
+{
+    "$schema": "../schemas/profile.schema.json",
+    "github": "caiyongneng81-glitch",
+    "displayName": "Edward",
+    "tagline": "摸魚ing",
+    "interests": [
+        "程式"
+    ],
+    "faction": {
+        "os": "windows",
+        "browser": "chrome",
+        "editor": "other"
+    }
+}

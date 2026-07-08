@@ -1,0 +1,15 @@
+{
+    "$schema": "../schemas/profile.schema.json",
+    "github": "HengTang",
+    "displayName": "珩棠",
+    "tagline": "ENTP",
+    "interests": [
+        "密碼學",
+        "AI"
+    ],
+    "faction": {
+        "os": "windows",
+        "browser": "chrome",
+        "editor": "vscode"
+    }
+}

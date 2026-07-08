@@ -1,0 +1,16 @@
+{
+  "$schema": "../schemas/profile.schema.json",
+  "github": "yhong4623",
+  "displayName": "Salmon (鮭魚)",
+  "tagline": "不會打 Crypto 的 CTF 初學者",
+  "interests": [
+    "資安",
+    "AI",
+    "HomeLab"
+  ],
+  "faction": {
+    "os": "windows",
+    "browser": "arc",
+    "editor": "vscode"
+  }
+}
