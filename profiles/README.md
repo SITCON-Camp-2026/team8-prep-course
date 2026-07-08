@@ -18,7 +18,7 @@ profiles/octocat.json
 
 1. 在 `notes/` 寫自然語言草稿。
 2. 請 Coding Agent 產生 JSON。
-3. 執行 `pnpm validate`。
+3. 執行 `pnpm validate`。sudo apt install
 4. 在 Source Control 檢查 diff。
 5. 確認內容可以公開後再 commit。
 

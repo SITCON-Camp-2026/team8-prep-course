@@ -4,11 +4,17 @@
   "displayName": "ESU CAT",
   "tagline": "<script>alert(1)</script>",
   "interests": [
-    "資安"
-  ],
-  "faction": {
-    "os": "windows",
-    "browser": "chrome",
-    "editor": "vscode"
-  }
-}
+    {
+      "$schema": "../schemas/profile.schema.json",
+      "github": "n10955165",
+      "displayName": "ESU CAT",
+      "tagline": "<script>alert(1)</script>",
+      "interests": [
+        "資安"
+      ],
+      "faction": {
+        "os": "windows",
+        "browser": "chrome",
+        "editor": "vscode"
+      }
+    }
