@@ -10,7 +10,7 @@
   ],
   "faction": {
     "os": "liunx",
-    "browser": "zen",
+    "browser": "other",
     "editor": "vscode"
   }
 }
